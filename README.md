@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Docente de la Universidad Autónoma de zacatecas, entre las principales áreas de interés se encuentra el desarrollo de algoritmos de conducción autónoma.<br>
+Professor at the Autonomous University of Zacatecas, among the main areas of interest is the development of autonomous driving algorithms and data analysis.<br>
 
 
 ## 🌐 Socials:
